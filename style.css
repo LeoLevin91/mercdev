@@ -68,7 +68,7 @@
     letter-spacing: normal;
     color: #262626;
     padding-left: 16px;
-    border: none;
+    border: 1px solid white;
     border-radius: 4px;
     background-color: #f1f1f0;
 }
