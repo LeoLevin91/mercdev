@@ -36,9 +36,4 @@ document.addEventListener('DOMContentLoaded', function(){
     }
     }
     
-//    var style_shit = function(){
-////        var height_1 = document.getElementsByClassName('form-one');
-////        height_1.style.height = '460px';
-//        
-//    }
 });
