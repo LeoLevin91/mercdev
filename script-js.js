@@ -12,17 +12,6 @@ document.addEventListener('DOMContentLoaded', function(){
     
     
     var req = new XMLHttpRequest();
-//    req.open('POST', 'https://us-central1-mercdev-academy.cloudfunctions.net/login', strJSON);
-//    req.setRequestHeader('Content-Type', 'json');
-//    req.onreadystatechange = function() {
-//        if(req.readyState == 4 && req.status==200){
-//            console.log('Yes');
-//            window.location.href = 'account.html';
-//        }
-//        else {
-//            console.log('No');
-//        }
-//    }
     var url = 'https://us-central1-mercdev-academy.cloudfunctions.net/login';
     var params = strJSON;
     req.open('POST', url, true);
