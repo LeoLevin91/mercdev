@@ -198,7 +198,7 @@
 }
 
 /*----------------Media-----------------------*/
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 610px) {
     .form-one{
       width: 288px;
       height: 344px;
